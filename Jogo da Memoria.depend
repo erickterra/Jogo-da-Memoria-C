@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569533355 source:c:\erick\projetos em c\jogo da memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
